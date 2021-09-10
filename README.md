@@ -25,18 +25,13 @@
 
 ### Checkout my Repos
 
-[![blog-app](https://github-readme-stats.vercel.app/api/pin?username=paopapaopao&repo=blog-app&show_owner=true&theme=dark)](https://github.com/paopapaopao/blog-app)
-
-[![journal-app](https://github-readme-stats.vercel.app/api/pin?username=paopapaopao&repo=journal-app&show_owner=true&theme=dark)](https://github.com/paopapaopao/journal-app)
-
-[![stock-trading-app](https://github-readme-stats.vercel.app/api/pin?username=paopapaopao&repo=stock-trading-app&show_owner=true&theme=dark)](https://github.com/paopapaopao/stock-trading-app)
-
-[![ruby-activities](https://github-readme-stats.vercel.app/api/pin?username=paopapaopao&repo=ruby-activities&show_owner=true&theme=dark)](https://github.com/paopapaopao/ruby-activities)
+[![blog-app](https://github-readme-stats.vercel.app/api/pin?username=paopapaopao&repo=blog-app&show_owner=true&theme=dark)](https://github.com/paopapaopao/blog-app) | [![journal-app](https://github-readme-stats.vercel.app/api/pin?username=paopapaopao&repo=journal-app&show_owner=true&theme=dark)](https://github.com/paopapaopao/journal-app)
+-- | --
+[![stock-trading-app](https://github-readme-stats.vercel.app/api/pin?username=paopapaopao&repo=stock-trading-app&show_owner=true&theme=dark)](https://github.com/paopapaopao/stock-trading-app) | [![ruby-activities](https://github-readme-stats.vercel.app/api/pin?username=paopapaopao&repo=ruby-activities&show_owner=true&theme=dark)](https://github.com/paopapaopao/ruby-activities)
 
 ---
 
 ### Here's my Stats
 
-[![paopapaopao's GitHub Stats](https://github-readme-stats.vercel.app/api?username=paopapaopao&count_private=true&show_icons=true&disable_animations=false&theme=github_dark)](https://github.com/paopapaopao/github-readme-stats)
-
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=paopapaopao&langs_count=10&layout=compact&card_width=445&theme=github_dark)](https://github.com/paopapaopao/github-readme-stats)
+[![paopapaopao's GitHub Stats](https://github-readme-stats.vercel.app/api?username=paopapaopao&count_private=true&show_icons=true&disable_animations=false&theme=github_dark)](https://github.com/paopapaopao/github-readme-stats) | [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=paopapaopao&langs_count=10&layout=compact&card_width=445&theme=github_dark)](https://github.com/paopapaopao/github-readme-stats)
+-- | --

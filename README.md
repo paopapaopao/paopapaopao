@@ -25,10 +25,10 @@
 
 ### Checkout my Repos
 
-| [![blog](https://github-readme-stats.vercel.app/api/pin?username=paopapaopao&repo=blog&show_owner=true&theme=dark)](https://github.com/paopapaopao/blog)<br> [Demo](https://pao-blog.herokuapp.com) | [![journal](https://github-readme-stats.vercel.app/api/pin?username=paopapaopao&repo=journal&show_owner=true&theme=dark)](https://github.com/paopapaopao/journal)<br> [Demo](https://pao-journal.herokuapp.com) |
+| [![blog](https://github-readme-stats.vercel.app/api/pin?username=paopapaopao&repo=blog&show_owner=true&theme=dark)](https://github.com/paopapaopao/blog)<br> [Demo](https://pao-blog.herokuapp.com) | [![blog](https://github-readme-stats.vercel.app/api/pin?username=paopapaopao&repo=blog&show_owner=true&theme=dark)](https://github.com/paopapaopao/blog)<br> [Demo](https://pao-blog.herokuapp.com) |
 | --- | --- |
-| [![stock-trading](https://github-readme-stats.vercel.app/api/pin?username=paopapaopao&repo=stock-trading&show_owner=true&theme=dark)](https://github.com/paopapaopao/stock-trading)<br> [Demo](https://pao-stock-trading.herokuapp.com) | [![petmalu](https://github-readme-stats.vercel.app/api/pin?username=paopapaopao&repo=petmalu&show_owner=true&theme=dark)](https://github.com/paopapaopao/petmalu)<br> [Demo](https://petmalu-app.herokuapp.com) |
-| [![ruby-activities](https://github-readme-stats.vercel.app/api/pin?username=paopapaopao&repo=ruby-activities&show_owner=true&theme=dark)](https://github.com/paopapaopao/ruby-activities) | [![ruby-portfolio](https://github-readme-stats.vercel.app/api/pin?username=paopapaopao&repo=ruby-portfolio&show_owner=true&theme=dark)](https://github.com/paopapaopao/ruby-portfolio) |
+| [![journal](https://github-readme-stats.vercel.app/api/pin?username=paopapaopao&repo=journal&show_owner=true&theme=dark)](https://github.com/paopapaopao/journal)<br> [Demo](https://pao-journal.herokuapp.com) | [![stock-trading](https://github-readme-stats.vercel.app/api/pin?username=paopapaopao&repo=stock-trading&show_owner=true&theme=dark)](https://github.com/paopapaopao/stock-trading)<br> [Demo](https://pao-stock-trading.herokuapp.com) |
+| [![petmalu](https://github-readme-stats.vercel.app/api/pin?username=paopapaopao&repo=petmalu&show_owner=true&theme=dark)](https://github.com/paopapaopao/petmalu)<br> [Demo](https://petmalu-app.herokuapp.com) | [![ruby-activities](https://github-readme-stats.vercel.app/api/pin?username=paopapaopao&repo=ruby-activities&show_owner=true&theme=dark)](https://github.com/paopapaopao/ruby-activities) |
 
 ---
 
